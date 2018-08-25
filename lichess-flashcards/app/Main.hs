@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import ScrapeGames
 
 main :: IO ()
-main = someFunc
+main = print "This does nothing."
